@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Calculadora
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Calculadora\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=a\ b\ c\ hip\ cat
+comment1.target=Calculadora(int,\ int,\ int,\ double,\ double)
+comment2.params=
+comment2.target=int\ devolverVloresDeX()
+comment3.params=p\ otro
+comment3.target=int\ pendiente(Punto,\ Punto)
+comment4.params=
+comment4.target=double\ cateto()
+numComments=5
